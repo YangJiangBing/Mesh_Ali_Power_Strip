@@ -1,0 +1,2 @@
+---- change_scan_param_timer_init Matches (1 in 0 files) ----
+Light_swtimer.c (d:\sun\mesh_power_strip_pro\src\app\mesh\ali_strip):void change_scan_param_timer_init(void)
